@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import { DroppableId, DraggableId } from "react-beautiful-dnd";
+import { DroppableId, DraggableId, Droppable } from "react-beautiful-dnd";
 import Task from "../Task";
 
 import {
